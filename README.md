@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-PREBOT APP
+## PREBOT APP
 
 ## What it does
 
-LET'S BEGIN
+# LET'S BEGIN
 
 ## Getting started
 
